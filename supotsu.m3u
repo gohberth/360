@@ -2,15 +2,18 @@
 
 #EXTINF:-1,Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33100&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport1.m3u8
+#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33100&extension=m3u8
 
 #EXTINF:-1,Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33102&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport2.m3u8
+#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33102&extension=m3u8
 
 #EXTINF:-1,Arena Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33104&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport3.m3u8
+#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33104&extension=m3u8
 
 #EXTINF:-1,Arena Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
