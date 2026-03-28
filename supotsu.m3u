@@ -3,208 +3,681 @@
 #EXTINF:-1,Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport1.m3u8
-#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33100&extension=m3u8
 
 #EXTINF:-1,Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport2.m3u8
-#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33102&extension=m3u8
 
 #EXTINF:-1,Arena Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport3.m3u8
-#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33104&extension=m3u8
 
 #EXTINF:-1,Arena Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33106&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport4.m3u8
 
 #EXTINF:-1,Arena Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=33107&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport5.m3u8
 
 #EXTINF:-1,Arena Sport 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1375054&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport6.m3u8
 
 #EXTINF:-1,Arena Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1375057&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport7.m3u8
 
 #EXTINF:-1,Arena Sport 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1375060&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport8.m3u8
 
 #EXTINF:-1,Arena Sport 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1375061&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport9.m3u8
 
 #EXTINF:-1,Arena Sport 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1375040&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport10.m3u8
 
 #EXTINF:-1,Arena Sport 1 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1375039&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasportpremium1.m3u8
 
-#EXTINF:-1,Arena Sport 2
+#EXTINF:-1,Arena Sport 2 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1375044&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasportpremium2.m3u8
 
-#EXTINF:-1,Arena Sport 3
+#EXTINF:-1,Arena Sport 3 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1375047&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasportpremium3.m3u8
 
 #EXTINF:-1,Astro Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775978&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/astrofootball.m3u8
 
 #EXTINF:-1,Astro Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775977&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/astrograndstand.m3u8
 
 #EXTINF:-1,Astro Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/astropremierleague.m3u8
 
 #EXTINF:-1,Astro Premier League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1773986&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/astropremierleague2.m3u8
 
 #EXTINF:-1,beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein1.m3u8
 
 #EXTINF:-1,beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=510908&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein1hd-fr.m3u8
 
 #EXTINF:-1,beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=228&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports1turkey.m3u8
 
 #EXTINF:-1,beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein2.m3u8
 
 #EXTINF:-1,beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=510909&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein2hd-fr.m3u8
 
 #EXTINF:-1,beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=227&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports2turkey.m3u8
 
 #EXTINF:-1,beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein3.m3u8
 
 #EXTINF:-1,beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=510910&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein3hd-fr.m3u8
 
 #EXTINF:-1,beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=226&extension=m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports3turkey.m3u8
 
 #EXTINF:-1,beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein4.m3u8
 
 #EXTINF:-1,beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein5.m3u8
 
-#EXTINF:-1,CCTV5
+#EXTINF:-1,beIN SPORTS 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/CCTV5/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein6.m3u8
+
+#EXTINF:-1,beIN SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein7.m3u8
+
+#EXTINF:-1,beIN SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/bein8.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsportsmax1turkey.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsportsmax2turkey.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports4max-fr.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports5max-fr.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports6max-fr.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports7max-fr.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports8max-fr.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports9max-fr.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports10max-fr.m3u8
+
+#EXTINF:-1,CANAL+ Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/canalsport1.m3u8
+
+#EXTINF:-1,CANAL+ Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/canalsport2.m3u8
+
+#EXTINF:-1,CANAL+ Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/canalsport3.m3u8
+
+#EXTINF:-1,CANAL+ Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/canalsport4.m3u8
+
+#EXTINF:-1,DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/dazn1germany.m3u8
+
+#EXTINF:-1,DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/dazn1spain.m3u8
+
+#EXTINF:-1,DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/dazn2germany.m3u8
+
+#EXTINF:-1,DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/dazn2spain.m3u8
+
+#EXTINF:-1,DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/dazn3spain.m3u8
+
+#EXTINF:-1,DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/dazn4spain.m3u8
+
+#EXTINF:-1,Diema Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/diemasport1.m3u8
+
+#EXTINF:-1,Diema Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/diemasport2.m3u8
+
+#EXTINF:-1,Diema Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/diemasport3.m3u8
+
+#EXTINF:-1,Digi Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/digiport1.m3u8
+
+#EXTINF:-1,Digi Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/digiport2.m3u8
+
+#EXTINF:-1,Digi Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/digiport3.m3u8
+
+#EXTINF:-1,Digi Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/digiport4.m3u8
+
+#EXTINF:-1,Eurosport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/eurosport.m3u8
 
 #EXTINF:-1,Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Eurosport-1/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/eurosport1spain.m3u8
 
 #EXTINF:-1,Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Eurosport-2/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/eurosport2.m3u8
 
-#EXTINF:-1,Football Channel
+#EXTINF:-1,Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Football-Channel/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/eurosport2spain.m3u8
+
+#EXTINF:-1,ESPN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/espn1.m3u8
+
+#EXTINF:-1,ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/espn2.m3u8
+
+#EXTINF:-1,ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/espn3.m3u8
+
+#EXTINF:-1,ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/espn4.m3u8
+
+#EXTINF:-1,FOX Sports 501
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport501.m3u8
+
+#EXTINF:-1,FOX Sports 502
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport502.m3u8
+
+#EXTINF:-1,FOX Sports 503
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport503.m3u8
+
+#EXTINF:-1,FOX Sports 504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport504.m3u8
+
+#EXTINF:-1,FOX Sports 505
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport505.m3u8
+
+#EXTINF:-1,FOX Sports 506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport506.m3u8
+
+#EXTINF:-1,FOX Sports 507
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport507.m3u8
 
 #EXTINF:-1,HUB Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier1.m3u8
 
 #EXTINF:-1,HUB Premier 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier2.m3u8
 
 #EXTINF:-1,HUB Premier 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier3.m3u8
 
 #EXTINF:-1,HUB Premier 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier4.m3u8
 
 #EXTINF:-1,HUB Premier 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier5.m3u8
 
 #EXTINF:-1,HUB Premier 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier6.m3u8
 
 #EXTINF:-1,HUB Premier 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier7.m3u8
 
 #EXTINF:-1,HUB Premier 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier8.m3u8
+
+#EXTINF:-1,HUB Premier 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier10.m3u8
+
+#EXTINF:-1,HUB Premier 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubpremier11.m3u8
 
 #EXTINF:-1,HUB Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubsports1.m3u8
 
 #EXTINF:-1,HUB Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubsports2.m3u8
 
 #EXTINF:-1,HUB Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubsports3.m3u8
 
 #EXTINF:-1,HUB Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubsports4.m3u8
 
 #EXTINF:-1,HUB Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/hubsports5.m3u8
 
-#EXTINF:-1,HUB Sports 6
+#EXTINF:-1,MAX Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/maxsport1.m3u8
 
-#EXTINF:-1,HUB Sports 7
+#EXTINF:-1,MAX Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/maxsport2.m3u8
 
-#EXTINF:-1,HUB Sports 8
+#EXTINF:-1,MAX Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/maxsport3.m3u8
 
-#EXTINF:-1,SPOTV 1
+#EXTINF:-1,MAX Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Spotv-1/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/maxsport4.m3u8
 
-#EXTINF:-1,SPOTV 2
+#EXTINF:-1,Nova Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Spotv-2/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/novasport1.m3u8
 
-#EXTINF:-1,The Sports Network
+#EXTINF:-1,Nova Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://hls.iill.top/api/Sports-Network/index.m3u8
+https://github.com/cattv976/sportworld/raw/refs/heads/main/novasport2.m3u8
+
+#EXTINF:-1,Nova Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/novasport3.m3u8
+
+#EXTINF:-1,Nova Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/novasport4.m3u8
+
+#EXTINF:-1,NOW Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/nowpremier1.m3u8
+
+#EXTINF:-1,Premier Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/premiersport1.m3u8
+
+#EXTINF:-1,Premier Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/premiersport2.m3u8
+
+#EXTINF:-1,Prima Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/primasport1.m3u8
+
+#EXTINF:-1,Prima Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/primasport2.m3u8
+
+#EXTINF:-1,Prima Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/primasport3.m3u8
+
+#EXTINF:-1,Prima Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/primasport4.m3u8
+
+#EXTINF:-1,RMC Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/rmcsport1.m3u8
+
+#EXTINF:-1,RMC Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/rmcsport2.m3u8
+
+#EXTINF:-1,RMC Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/rmcsport3.m3u8
+
+#EXTINF:-1,RMC Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/rmcsport4.m3u8
+
+#EXTINF:-1,Sky Sport 1 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysport1_nz.m3u8
+
+#EXTINF:-1,Sky Sport 2 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysport2_nz.m3u8
+
+#EXTINF:-1,Sky Sport 3 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysport3_nz.m3u8
+
+#EXTINF:-1,Sky Sport 4 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysport4_nz.m3u8
+
+#EXTINF:-1,Sky Sport 5 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysport5_nz.m3u8
+
+#EXTINF:-1,Sky Sport 6 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysport6_nz.m3u8
+
+#EXTINF:-1,Sky Sport 7 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysport7_nz.m3u8
+
+#EXTINF:-1,Sky Sport 8 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysport8_nz.m3u8
+
+#EXTINF:-1,Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsaction.m3u8
+
+#EXTINF:-1,Sky Sport Bundesliga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportbundesliga1.m3u8
+
+#EXTINF:-1,Sky Sport Bundesliga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportbundesliga2.m3u8
+
+#EXTINF:-1,Sky Sport Bundesliga 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportbundesliga3.m3u8
+
+#EXTINF:-1,Sky Sport Bundesliga 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportbundesliga4.m3u8
+
+#EXTINF:-1,Sky Sport Bundesliga 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportbundesliga5.m3u8
+
+#EXTINF:-1,Sky Sport Bundesliga 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportbundesliga6.m3u8
+
+#EXTINF:-1,Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportscricket.m3u8
+
+#EXTINF:-1,Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsf1.m3u8
+
+#EXTINF:-1,Sky Sports Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsfootball.m3u8
+
+#EXTINF:-1,Sky Sports Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsgolf.m3u8
+
+#EXTINF:-1,Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsmainevent.m3u8
+
+#EXTINF:-1,Sky Sports Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsmix.m3u8
+
+#EXTINF:-1,Sky Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsnews.m3u8
+
+#EXTINF:-1,Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportspremierleague.m3u8
+
+#EXTINF:-1,Sky Sports Racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsracing.m3u8
+
+#EXTINF:-1,Sportklub 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sportklub1.m3u8
+
+#EXTINF:-1,Sportklub 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sportklub2.m3u8
+
+#EXTINF:-1,Sportklub 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sportklub3.m3u8
+
+#EXTINF:-1,Sportklub 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sportklub4.m3u8
+
+#EXTINF:-1,Sport TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sporttv1.m3u8
+
+#EXTINF:-1,Sport TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sporttv2.m3u8
+
+#EXTINF:-1,Sport TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sporttv3.m3u8
+
+#EXTINF:-1,Sport TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sporttv4.m3u8
+
+#EXTINF:-1,Sport TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/sporttv5.m3u8
+
+#EXTINF:-1,SuperSport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportaction.m3u8
+
+#EXTINF:-1,SuperSport Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportcricket.m3u8
+
+#EXTINF:-1,SuperSport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportfootball.m3u8
+
+#EXTINF:-1,SuperSport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportgolf.m3u8
+
+#EXTINF:-1,SuperSport Grand Stand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportgrandstand.m3u8
+
+#EXTINF:-1,SuperSport La Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportlaliga.m3u8
+
+#EXTINF:-1,SuperSport MaXimo 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportmaximo1.m3u8
+
+#EXTINF:-1,SuperSport Motor Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportmotorsport.m3u8
+
+#EXTINF:-1,SuperSport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportpremierleague.m3u8
+
+#EXTINF:-1,SuperSport PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportpsl.m3u8
+
+#EXTINF:-1,SuperSport Rugby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportrugby.m3u8
+
+#EXTINF:-1,SuperSport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersporttennis.m3u8
+
+#EXTINF:-1,SuperSport Variety 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportvariety1.m3u8
+
+#EXTINF:-1,SuperSport Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportvariety2.m3u8
+
+#EXTINF:-1,SuperSport Variety 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportvariety3.m3u8
+
+#EXTINF:-1,SuperSport Variety 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportvariety4.m3u8
+
+#EXTINF:-1,TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1,TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1,TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tntsport3.m3u8
+
+#EXTINF:-1,TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tntsport4.m3u8
+
+#EXTINF:-1,TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tsn1.m3u8
+
+#EXTINF:-1,TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tsn2.m3u8
+
+#EXTINF:-1,TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tsn3.m3u8
+
+#EXTINF:-1,TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tsn4.m3u8
+
+#EXTINF:-1,TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/tsn5.m3u8
+
+#EXTINF:-1,Ziggo Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/ziggosport1.m3u8
+
+#EXTINF:-1,Ziggo Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/ziggosport2.m3u8
+
+#EXTINF:-1,Ziggo Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/ziggosport3.m3u8
+
+#EXTINF:-1,Ziggo Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/ziggosport4.m3u8
+
+#EXTINF:-1,Ziggo Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/ziggosport5.m3u8
+
+#EXTINF:-1,Ziggo Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/ziggosport6.m3u8
 
 #EXTINF:-1 ,
