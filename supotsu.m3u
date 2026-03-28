@@ -556,6 +556,14 @@ https://github.com/cattv976/sportworld/raw/refs/heads/main/sporttv4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://github.com/cattv976/sportworld/raw/refs/heads/main/sporttv5.m3u8
 
+#EXTINF:-1,SPOTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/truespotv1.m3u8
+
+#EXTINF:-1,SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://github.com/cattv976/sportworld/raw/refs/heads/main/truespotv2.m3u8
+
 #EXTINF:-1,SuperSport Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://github.com/cattv976/sportworld/raw/refs/heads/main/supersportaction.m3u8
