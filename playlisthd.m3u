@@ -8,8 +8,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #EXTINF:-1 tvg-id="BTV",BTV
 #EXTVLCOPT:http-referrer=https://www.beritasatu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",DEFAULT=YES,NAME="Indonesia",AUTOSELECT=YES,LANGUAGE="id",URI="https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/haudio-eng.m3u8"
-#EXT-X-STREAM-INF:AUDIO="audio"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/haudio-eng.m3u8",GROUP-ID="audio",LANGUAGE="en",NAME="eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=2954547,AVERAGE-BANDWIDTH=2487919,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio",CLOSED-CAPTIONS=NONE
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/hvideo-1280x720.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
