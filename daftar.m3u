@@ -221,78 +221,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
-#EXTINF:-1, CCTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=4c965b5da43a777ebf002df0277f7cd7&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260404175517&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.98.84.19&SecurityKey=20260404175517&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5d7b12da0e6292f3b4e38a800dde8c4c&ddCalcu=c54dvc7a8bye1ad2dd0a008ea68239e24fb3&sv=10004&ct=android
-
-#EXTINF:-1, CCTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=f464765afa22763e17bb92950b80bda0&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260404175518&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=39.98.84.19&SecurityKey=20260404175518&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d64d44b4bf776fa10a492ebb9c508766&ddCalcu=6d66v74a8dz04a54cb94bbbfe727964faa01&sv=10004&ct=android
-
-#EXTINF:-1, CCTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=fb224c40cfa309eaa58b7986908520ed&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260404175517&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=39.98.84.19&SecurityKey=20260404175517&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=311360da90157c56aa91f8912a5779c5&ddCalcu=53c1v91a73a76a50ad2a199081f5179ca5a6&sv=10004&ct=android
-
-##EXTINF:-1, CCTV4
-##EXTVLCOPT:http-referrer=https://www.indihometv.com/
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
-
 #EXTINF:-1, CCTV4
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=a30879c3ef9ca79dbb8afcb1e1287328&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260404175520&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=39.98.84.19&SecurityKey=20260404175520&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b2cf981a557ded3c74383eb29d2b2935&ddCalcu=5b32v9ca2fyb9a28d19a25b5e73d8e3d437c&sv=10004&ct=android
-
-#EXTINF:-1, CCTV5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=617d65f683ce9aa7d4ed30b8c9a461bd&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260404175518&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=39.98.84.19&SecurityKey=20260404175518&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=24630079e5afb35851b15c5b52bda1cf&ddCalcu=f2c4v16aa3wd0ab02759be55ca5f1bb31558&sv=10004&ct=android
-
-#EXTINF:-1, CCTV5+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=74c96b59419c008c63e044c6c946b57f&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260404175517&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=39.98.168.103&SecurityKey=20260404175517&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bbe1968b88b4a1dbf577d30a0d47acfc&ddCalcu=cbfbvceaa1x79a46d80ba8083bd47a715dfb&sv=10004&ct=android
-
-#EXTINF:-1, CCTV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=74c96b59419c008c63e044c6c946b57f&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260404175518&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=39.98.84.19&SecurityKey=20260404175518&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=320f19bf26a35ceda94c0c7920be8526&ddCalcu=6322v50a8fbe1ab90b2f9276ca03c54c9ead&sv=10004&ct=android
-
-#EXTINF:-1, CCTV7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=c6f6e18ed05fdfabf6b39aeac98c2bd0&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260404175518&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=39.98.84.19&SecurityKey=20260404175518&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6b6bb4d451a2b9a6e2df7a213322bcf3&ddCalcu=36fbvc6abbd2ba243d341521aa72fbd92ae6&sv=10004&ct=android
-
-#EXTINF:-1, CCTV8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=860e6b6cde4de5141c2bb303096bc173&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260404175517&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=39.98.168.103&SecurityKey=20260404175517&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=62c5ef3a1e8f8c71993824523e6c066e&ddCalcu=e662v6ca05bcea6fe33a215e482f883c9791&sv=10004&ct=android
-
-#EXTINF:-1, CCTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=abc25058804bc38b3e875fcb2856014e&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260404175517&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=39.98.168.103&SecurityKey=20260404175517&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3f8619a15c974dc7da958806601da64a&ddCalcu=a34fv68aa6dd1a190a61650c8987549dacd7&sv=10004&ct=android
-
-#EXTINF:-1, CCTV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=7ac0b305a5b141d7c2bf987158159640&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260404175519&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=39.98.168.103&SecurityKey=20260404175519&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ae761e2d295df5fdb28d6bc1bbf0a220&ddCalcu=0a2ev27aa6y01afeb2bd12c9b56ddf852fbd&sv=10004&ct=android
-
-#EXTINF:-1, CCTV11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=cb765bbba5911728e89cafedc3c1f9f9&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260404175519&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=39.98.168.103&SecurityKey=20260404175519&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b4d0db5b83cbacf3963d37fa9426bbfd&ddCalcu=dbf4vbdab0z6da2b459ba8f37c3bda3c6f93&sv=10004&ct=android
-
-#EXTINF:-1, CCTV12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=02f7a91a3ea24a1fc867c93bb54c17cc&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260404175518&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=39.98.84.19&SecurityKey=20260404175518&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3fad05013636a938a149beefd9690d48&ddCalcu=834fvdaa0dd90a6590d1f3e6e3b69a4913a8&sv=10004&ct=android
-
-#EXTINF:-1, CCTV13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=c17cdf4cd28f7e321ce8ec300035e055&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260404175519&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=39.98.84.19&SecurityKey=20260404175519&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ca6bc902b10533af336217f5390839a1&ddCalcu=1caav96a3by8ca0990325bf1701523633a3f&sv=10004&ct=android
-
-#EXTINF:-1, CCTV14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=e692ea86e32c4a936f4ba57c53fa5166&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260404175519&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=39.98.168.103&SecurityKey=20260404175519&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4007391b6c6a6846191110307f0f6f29&ddCalcu=9420vf0a67yf3a09f17b063c061a16189416&sv=10004&ct=android
-
-#EXTINF:-1, CCTV15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=95088ea8dbbdd4a9ec165f0db2cc878f&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260404175520&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=39.98.84.19&SecurityKey=20260404175520&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fb4c27d7d57ad9a9d1f124662eeb762c&ddCalcu=cf2bv64a7cab2ae7ed276d65472a1df91ad9&sv=10004&ct=android
-
-#EXTINF:-1, CCTV17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=93bb4824ce213685d37171e02240da62&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260404175520&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=39.98.168.103&SecurityKey=20260404175520&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=81400a95dc66e35e99b877cfbf93e187&ddCalcu=7881v14ae0a30a9af9b5fdcc76768eb3959e&sv=10004&ct=android
+https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
 
 #EXTINF:-1, CELEBRITIES TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -393,7 +325,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/Q05OaS1teQ/manifest.mpd
 
 #EXTINF:-1, COPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
+https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/../../../manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/6675f3d0-6258-42d9-ae80-4c57062160b6/1.m3u8
 
 #EXTINF:-1, CREMA TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -507,17 +439,17 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/in
 
 #EXTINF:-1, FAIL ARMY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/../../../manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/65dfa086-6e53-4270-bfa1-491afefa6a24/1.m3u8
 
 #EXTINF:-1, FIFA+
 #EXTVLCOPT:http-referrer=https://www.plus.fifa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/../../../manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/4154aac0-c4d8-45ff-8dc2-c4d476431b23/1.m3u8
 
 #EXTINF:-1, FIFA+
 #EXTVLCOPT:http-referrer=https://www.plus.fifa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/../../../manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/90aa75f1-54cc-42e4-9275-2a9bed507402/2.m3u8
 
 #EXTINF:-1, FIGHT SPORTS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -583,7 +515,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 
 #EXTINF:-1, FUEL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/1280x720_2560800/chunklist.m3u8
 
 #EXTINF:-1, GALAXY
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -783,7 +715,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/IW5zZXJ0/manifest.mpd
 
 #EXTINF:-1, INTER 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://amg27604-amg27604c1-amgplt0165.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0165/playlist.m3u8
+https://amg27604-amg27604c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c1-amgplt0165/98f644f5-3050-11f1-9df6-d606bbb2f70f/109/1280x720_2500000/index.m3u8
 
 #EXTINF:-1, JAWAPOS TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1093,7 +1025,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 
 #EXTINF:-1, NINJA WARRIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-ninjawarrior-rakutenuk/playlist.m3u8
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00654-itvstudiosfast-ninjawarrior-rakutenuk/d81533e0-3050-11f1-88a6-36daf3f4e010/195/1280x720_3329040/index.m3u8
 
 #EXTINF:-1, NOVA SPORT 1
 #EXTVLCOPT:http-referrer=https://webtv.sk/tv/
