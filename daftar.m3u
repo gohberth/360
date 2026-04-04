@@ -126,12 +126,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 #EXTINF:-1, BEIN SPORTS XTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR720P.m3u8
+https://bein-xtra-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1, BERITA SATU
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 #EXTINF:-1, BERITA SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -155,7 +156,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/Qmlvc2tvcCBJbmRvbmVzaWE/mani
 #EXTINF:-1, BN CHANNEL
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 #EXTINF:-1, BUDDY STAR
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -167,12 +168,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/ind
 #EXTINF:-1, BTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 
 #EXTINF:-1, BTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:-1, BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -363,10 +364,15 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+#EXTINF:-1, CNA
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
+
 #EXTINF:-1, CNBC INDONESIA
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1857630172_b384000_sleng.m3u8
 
 #EXTINF:-1, CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -377,7 +383,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/Q05CQy1JbmRvbmVzaWE/manifest
 #EXTINF:-1, CNN INDONESIA
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1185811361_b384000_sleng.m3u8
 
 #EXTINF:-1, CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -389,6 +395,11 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/Q05OaS1teQ/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
 
+#EXTINF:-1, CREMA TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
 #EXTINF:-1, CRIME INVESTIGATION
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -399,16 +410,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #EXTINF:-1, DAAI TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
 #EXTINF:-1, DAAI TV
 #EXTVLCOPT:http-referrer=https://daaiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_SD.m3u8
 
 #EXTINF:-1, DAZN COMBAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb513d16796c6c9099ce2164d8d320dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05ccce38ee5b35781e6a9a81a20c8cca4956adda0f2b2ab37b1e50ee784c9270057dc1a64b5cdc73e53b414ab00d380e6b8bbe44ae7656969d0b8a292896fcdb616b600e0ecd0959ecf256a0a9e8092799568289e0dcc105779ef650f0ad42efdf8a0edd1ad754ce2eafe393ab48c44fb4bb57d814eb3573364ae32a840bfbeb58b8dd917c3589335a2e85e6e2d1f1dc6b46ee654652fff4deb370b5739cca4d090746db60f82fe4d0e4cbd30fa1e748a65f82ff082d18b7cd5a2e0da1eea198ef34094d079192c4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d911dc37dc9da5cc640c1e2a4425835ea9952289798c28f89f43701c6b4dbf9f53cb9e960f643b01d6f22bbe792cb0d58f8cc81d7b9b30693dc654990a55229c4e29168200f6803560852770f41334e95d338f5abcf56cc2aed5e1092ca69ca066fa7ce4a105c2fc61f83e6ab963130589f12354fc96f50c791597d5e65db942d71408/136/1280x720_2657600/index.m3u8
 
 #EXTINF:-1, DAZN FAST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -425,12 +436,37 @@ https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
 #EXTINF:-1, DENS FOOD CHANNEL
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 
 #EXTINF:-1, DENS FOOD CHANNEL
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h248/04.m3u8
+
+#EXTINF:-1, DENS LIFE & STYLE
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+#EXTINF:-1, DENS PLAY
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h225/04.m3u8
+
+#EXTINF:-1, DENS PLAY
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:-1, DENS SHOWBIZ
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h203/04.m3u8
+
+#EXTINF:-1, DENS SHOWBIZ
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
 #EXTINF:-1, DISCOVERY
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -566,7 +602,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #EXTINF:-1, GARUDA TV
 #EXTVLCOPT:http-referrer=https://garuda.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
 #EXTINF:-1, GLOBAL TREKKER
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -719,7 +755,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #EXTINF:-1, INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1, INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -756,7 +792,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTINF:-1, JUST FOR LAUGHS GAGS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1, K+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -781,6 +817,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTINF:-1, KOMPAS TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+
+#EXTINF:-1, KOMPAS TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1, KOMPAS TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -822,7 +868,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 #EXTINF:-1, MAGNA CHANNEL
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
 #EXTINF:-1, MAX EATS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -855,6 +901,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
 https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest.mpd
+
+#EXTINF:-1, MDTV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1, MDTV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1, MDTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -893,7 +949,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTINF:-1, METRO TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1, METRO TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -948,7 +1004,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #EXTINF:-1, MOJI
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1, MOONBUG
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -960,7 +1016,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/ind
 #EXTINF:-1, MOTORVISION
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 
 #EXTINF:-1, MOVIES NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -970,11 +1026,11 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1, MOVIESPHERE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+https://moviesphereuk-samsunguk.amagi.tv/720p-vtt/index.m3u8
 
 #EXTINF:-1, MR. BEAN LIVE ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb513d16796c6c9099ce2164d8d320dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05ccce38ee5b35781e6a9a81a20c8cca4956adda0f2b2ab37b1e50ee784c9270057dc1a64b5cdc73e53b4147ec503a5330dabe44ae7656919d0b8a292896a5d46839600c0e9c085fe0f60da0ade95d2799568289e0dcc105779ef650f0ad42efdf8a0edd1ad754ce2eafe393ab48c44fb4bb57d814eb3573364ae32a840bfbeb58b8dd917c3589335a2e85e6e2d1f1dc6b46ee654652fff4deb370b5739cca4d090746db60f82fe4d0e4cbd30fa1e748a65f82ff082d18b7cd5a2e0da1eea198ef34094d079192c4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d911dc37dc9da5cc640c1e2a4425835ea9952289798c28f89f43701c6b4dbf9f53cb9e960f643b01d6f22bbe792cb0d58f8cc81d7b9b30693dc654990a55229c4e29168200f6803560852770f41334e95d338f5abcf56cc2aed5e1092ca69ca066fa7ce4a105c2fc61f8346fb9633c0b89f12333ba77935e29fc1cf66a84135ed9991b/193/1280x720_3329040/index.m3u8
 
 #EXTINF:-1, MUSIC TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -990,7 +1046,7 @@ https://get.perfecttv.net/mutv.mpd
 #EXTINF:-1, MY CINEMA EUROPE
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 
 #EXTINF:-1, MY KIDZ
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1003,6 +1059,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=834ec3cbface4fe992e995a32d35f587:e0a97198d9f2dfcb0a0483cd4b04414b
 https://cdn08jtedge.indihometv.com/dassdvr/130/nba/manifest.mpd
+
+#EXTINF:-1, NHK WORLD
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://op-group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
 
 #EXTINF:-1, NICK JUNIOR
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1051,7 +1112,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1, NUSANTARA TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
 #EXTINF:-1, NUSANTARA TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1090,7 +1151,7 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 #EXTINF:-1, PEOPLE ARE AWESOME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/../../../manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/f8419b12-bc66-4d23-a1c4-194926cc6163/1.m3u8
 
 #EXTINF:-1, PRAMBORS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1106,11 +1167,11 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mp
 #EXTINF:-1, QWEST TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h153/index2.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h153/S4/mnf.m3u8
 
 #EXTINF:-1, RALLY.TV FAST+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8
+https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/../../../manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/0cecc528-f783-47a5-8dbd-1198f298be6c/2.m3u8
 
 #EXTINF:-1, RCTI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1133,16 +1194,16 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/UkNUSS1DaGFubmVs/manifest.mp
 #EXTINF:-1, REAL MADRID TV [ES]
 #EXTVLCOPT:http-referrer=https://play.realmadrid.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://dice-live-eu.cdnfastly.endeavorstreaming.net/1775395670_F1xPDa8CZvdhHlD7_3fac11ffacfdc344641f2009aed1ac20ba442aab/id=9a1d55fc-1a4a-41fc-bca0-2ac0f014fdbb/data=dWlkPTZOTTR3SnwzYTI2MDQyOC0wN2E2LTQzNmQtYWMxZS0yZDRlODk4YzQ0ZWMmaXA9MTgyLjkuMzQuMjgmZXhwPTE3NzUzOTU3MDAmZWlkPTIzNzI4NCZjaWQ9ZGNlLnJlYWxtYWRyaWQmb2lkPTM0NyZ0eXBlPUxJVkU/hls/live/2001479~/hls/live/2001479/237284-313745/playlist-d.m3u8
+https://dice-live-eu.cdnfastly.endeavorstreaming.net/1775395670_F1xPDa8CZvdhHlD7_3fac11ffacfdc344641f2009aed1ac20ba442aab/id=9a1d55fc-1a4a-41fc-bca0-2ac0f014fdbb/data=dWlkPTZOTTR3SnwzYTI2MDQyOC0wN2E2LTQzNmQtYWMxZS0yZDRlODk4YzQ0ZWMmaXA9MTgyLjkuMzQuMjgmZXhwPTE3NzUzOTU3MDAmZWlkPTIzNzI4NCZjaWQ9ZGNlLnJlYWxtYWRyaWQmb2lkPTM0NyZ0eXBlPUxJVkU/hls/live/2001479~/hls/live/2001479/237284-313745/exchange237284txfbj_237284_3000/chunklist-d.m3u8
 
 #EXTINF:-1, REAL MADRID TV [EN]
 #EXTVLCOPT:http-referrer=https://play.realmadrid.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://dice-live-eu.cdnfastly.endeavorstreaming.net/1775395524_qlyrkbiWPH7aTukB_071175a16e0bcec599801988f29fc8bd266d6db4/id=eff32b75-721f-4d12-b18e-88384c42c172/data=dWlkPTZOTTR3SnwzYTI2MDQyOC0wN2E2LTQzNmQtYWMxZS0yZDRlODk4YzQ0ZWMmaXA9MTgyLjkuMzQuMjgmZXhwPTE3NzUzOTU1NTMmZWlkPTIzOTIwOCZjaWQ9ZGNlLnJlYWxtYWRyaWQmb2lkPTM0NyZ0eXBlPUxJVkU/hls/live/2001449~/hls/live/2001449/239208-313746/playlist-d.m3u8
+https://dice-live-eu.cdnfastly.endeavorstreaming.net/1775395524_qlyrkbiWPH7aTukB_071175a16e0bcec599801988f29fc8bd266d6db4/id=eff32b75-721f-4d12-b18e-88384c42c172/data=dWlkPTZOTTR3SnwzYTI2MDQyOC0wN2E2LTQzNmQtYWMxZS0yZDRlODk4YzQ0ZWMmaXA9MTgyLjkuMzQuMjgmZXhwPTE3NzUzOTU1NTMmZWlkPTIzOTIwOCZjaWQ9ZGNlLnJlYWxtYWRyaWQmb2lkPTM0NyZ0eXBlPUxJVkU/hls/live/2001449~/hls/live/2001449/239208-313746/exchange239208vgutz_239208_3000/chunklist-d.m3u8
 
 #EXTINF:-1, REAL WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudio-realwildnz-samsungnz/cb513d16796c6c9099ce2164d8d320dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05ccce38ee5b35781e6a9a81a20c8cca4956adda0f2b2ab37b1e50ee784c9270057dc1a64b5cdc73e53b4116bf083b5564d8b844ae7656919d0b8a292896a4d9373c600b59965a5ab4f25ca5aee05c2799568289e0dcc105779ef650f0ad42efdf8a0edd1ad754ce2eafe393ab48c44fb4bb57d814eb3573364ae32a840bfbeb58b8dd917c3589335a2e85e6e2d1f1dc6b46ee654652fff4deb370b5739cca4d090746db60f82fe4d0e4cbd30fa1e748a65f82ff082d18b7cd5a2e0da1eea198ef34094d079192c4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d911dc37dc9da5cc640c1e2a4425835ea9952289798c28f89f43701c6b4dbf9f53cb9e960f643b01d6f22bbe792cb0d58f8cc81d7b9b30693dc654990a55229c4e29168200f6803560852770f41334e95d338f5abcf56cc2aed5e1092ca69ca066fa7ce4a105c2fc60fc38dc389048578239cab4458244a358cdc184602eb3f57423/55/960x540_2433860/index.m3u8
 
 #EXTINF:-1, ROCK ACTION
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1187,7 +1248,7 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 #EXTINF:-1, RTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1, RTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1200,10 +1261,15 @@ https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
 https://cdnjktbpid22.transvision.co.id/riutx01/dash/cnR2IENobmw/manifest.mpd
 
+#EXTINF:-1, RUSSIA TODAY
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h226/02.m3u8
+
 #EXTINF:-1, SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1, SCTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1321,7 +1387,7 @@ https://slive.mana2.my/SpotvNow/index.mpd
 #EXTINF:-1, STINGRAY CLASSICA
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
 
 #EXTINF:-1, STUDIO UNIVERSAL
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1339,23 +1405,23 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 
 #EXTINF:-1, TENNIS+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01935-amg01935c1-amgplt0165/0d285379-304e-11f1-938e-463c8b18fe16/169/1280x720_4564560/index.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://rakutenaa-tennischannel-international-uk-pt951.amagi.tv/playlist/rakutenAA-tennischannel-international-uk/playlist.m3u8
+https://rakutenaa-tennischannel-international-uk-pt951.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-tennischannel-international-uk/cb513d16796c6c9099ce2164d8d320dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05ccce38ee5b35781e6a9a81a20c8cca4956adda0f2b2ab37b1e50ee784c9270057dc1a64b5cdc73e53b4141b90c6c5064d8bc44ae7656909d0b8a292896ff8e626a600f5dcd5b0bb1a95ca7ade30e2799568289e0dcc105779ef650f0ad42efdf8a0edd1ad754ce2eafe393ab48c44fb4bb57d814eb3573364ae32a840bfbeb58b8dd917c3589335a2e85e6e2d1f1dc6b46ee654652fff4deb370b5739cca4d090746db60f82fe4d0e4cbd30fa1e748a65f82ff082d18b7cd5a2e0da1eea198ef34094d079192c4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d911dc37dc9da5cc640c1e2a4425835ea9952289798c28f89f43701c6b4dbf9f53cb9e960f643b01d6f22bbe792cb0d58f8cc81d7b9b30693dc654990a55229c4e29168200f6803560852770f41334e95d338f5abcf56cc2aed5e1092ca69ca066fa7ce4a105c2fc61f83a64b963000e89f123d02eba91a3998efb6157e42ca6b17c20/178/960x540_2428800/index.m3u8
 
 #EXTINF:-1, TENNIS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://amg01470-amg01470c1-rakuten-gb-11170.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-rakutengb/playlist.m3u8
+https://amg01470-amg01470c1-rakuten-gb-11170.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-rakutengb/cb513d16796c6c9099ce2164d8d320dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05ccce38ee5b35781e6a9a81a20c8cca4956adda0f2b2ab37b1e50ee784c9270057dc1a64b5cdc73e53b4140ba0c3b5363dbbe44ae7656909d0b8a292896a4dc6130605d0ecc0859e7f35da7aab5092799568289e0dcc105779ef650f0ad42efdf8a0edd1ad754ce2eafe393ab48c44fb4bb57d814eb3573364ae32a840bfbeb58b8dd917c3589335a2e85e6e2d1f1dc6b46ee654652fff4deb370b5739cca4d090746db60f82fe4d0e4cbd30fa1e748a65f82ff082d18b7cd5a2e0da1eea198ef34094d079192c4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d911dc37dc9da5cc640c1e2a4425835ea9952289798c28f89f43701c6b4dbf9f53cb9e960f643b01d6f22bbe792cb0d58f8cc81d7b9b30693dc654990a55229c4e29168200f6803560852770f41334e95d338f5abcf56cc2aed5e1092ca69ca066fa7ce4a105c2fc61f83d64b963230e89f123900df8b24e25c453bc1611616d98d38c/108/1280x720_3329040/index.m3u8
 
 #EXTINF:-1, THAT'S 70S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now70s-rakuten/42d1c2bf-304e-11f1-b9c0-62a24f64140c/168/1280x720_3801600/index.m3u8
 
 #EXTINF:-1, THAT'S 80S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+https://rakutenaa-lightning-now80s-rakuten-mkrxt.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now80s-rakuten/53eacf7f-304e-11f1-bcd5-eed00d19010a/146/1280x720_3801600/index.m3u8
 
 #EXTINF:-1, THAT'S 90S 00S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -1363,7 +1429,7 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1, THAT'S ROCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+https://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now90s-rakuten/cb513d16796c6c9099ce2164d8d320dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05ccce38ee5b35781e6a9a81a20c8cca4956adda0f2b2ab37b1e50ee784c9270057dc1a64b5cdc73e53b414bb8513e5730daeb44ae7656909d0b8a292896a4de696c605e599c0e55b7a156f5aae05b2799568289e0dcc105779ef650f0ad42efdf8a0edd1ad754ce2eafe393ab48c44fb4bb57d814eb3573364ae32a840bfbeb58b8dd917c3589335a2e85e6e2d1f1dc6b46ee654652fff4deb370b5739cca4d090746db60f82fe4d0e4cbd30fa1e748a65f82ff082d18b7cd5a2e0da1eea198ef34094d079192c4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d911dc37dc9da5cc640c1e2a4425835ea9952289798c28f89f43701c6b4dbf9f53cb9e960f643b01d6f22bbe792cb0d58f8cc81d7b9b30693dc654990a55229c4e29168200f6803560852770f41334e95d338f5abcf56cc2aed5e1092ca69ca066fa7ce4a105c2fc60f83bdc38904e578239f861ce24f0eae439eb0f204a5165d751/16/1280x720_3801600/index.m3u8
 
 #EXTINF:-1, THRILL
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1391,12 +1457,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd
 
 #EXTINF:-1, TOP BARÇA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb513d16796c6c9099ce2164d8d320dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05ccce38ee5b35781e6a9a81a20c8cca4956adda0f2b2ab37b1e50ee784c9270057dc1a64b5cdc73e53b414abb5936006bd8b844ae7656909d0b8a292896ff8e353c600f0acb5d5db1a157a3fee10c2799568289e0dcc105779ef650f0ad42efdf8a0edd1ad754ce2eafe393ab48c44fb4bb57d814eb3573364ae32a840bfbeb58b8dd917c3589335a2e85e6e2d1f1dc6b46ee654652fff4deb370b5739cca4d090746db60f82fe4d0e4cbd30fa1e748a65f82ff082d18b7cd5a2e0da1eea198ef34094d079192c4d2697595fa153712873d986a1c319ef9c40397833ba2f672d5fa394678f7984bcdc9e9c3f7e6d911dc37dc9da5cc640c1e2a4425835ea9952289798c28f89f43701c6b4dbf9f53cb9e960f643b01d6f22bbe792cb0d58f8cc81d7b9b30693dc654990a55229c4e29168200f6803560852770f41334e95d338f5abcf56cc2aed5e1092ca69ca066fa7ce4a105c2fc61f83868b963420c89f123f6bec08ce985fb32995797457b2c7899/154/1280x720_3000140/index.m3u8
 
 #EXTINF:-1, TRANS7
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2097995869_b744100_sleng.m3u8
 
 #EXTINF:-1, TRANS7
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1413,7 +1479,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFJBTlM3LW15/manifest.mpd
 #EXTINF:-1, TRANS TV
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458753143_b744100_sleng.m3u8
 
 #EXTINF:-1, TRANS TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1426,6 +1492,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
 https://cdnjktbpid22.transvision.co.id/riutx01/dash/VHJhbnNUVg/manifest.mpd
+
+#EXTINF:-1, TV5 MONDE ASIA
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h121/01.m3u8
 
 #EXTINF:-1, TVN
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1457,7 +1528,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFZOIE1vdmllcw/manifest.mpd
 #EXTINF:-1, TVONE
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1, TVONE
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1480,12 +1551,12 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFZPTkU/manifest.mpd
 #EXTINF:-1, TVRI
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 
 #EXTINF:-1, TVRI
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_900000=10002-mp4a_96000_eng=20000.m3u8
 
 #EXTINF:-1, TVRI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1501,12 +1572,12 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFZSSQ/manifest.mpd
 #EXTINF:-1, TVRI SPORT
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 #EXTINF:-1, TVRI SPORT
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000=20002.m3u8
 
 #EXTINF:-1, UNIQUES
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
