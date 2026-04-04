@@ -749,13 +749,6 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/IW5zZXJ0/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://amg27604-amg27604c1-amgplt0165.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0165/playlist.m3u8
 
-#EXTINF:-1, JAKARTA GLOBE CHANNEL
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
-https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
-
 #EXTINF:-1, JAWAPOS TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -957,13 +950,6 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1, MOJI
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
-
 #EXTINF:-1, MOONBUG
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1143,6 +1129,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
 https://cdnjktbpid22.transvision.co.id/riutx01/dash/UkNUSS1DaGFubmVs/manifest.mpd
+
+#EXTINF:-1, REAL MADRID TV [ES]
+#EXTVLCOPT:http-referrer=https://play.realmadrid.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dice-live-eu.cdnfastly.endeavorstreaming.net/1775395670_F1xPDa8CZvdhHlD7_3fac11ffacfdc344641f2009aed1ac20ba442aab/id=9a1d55fc-1a4a-41fc-bca0-2ac0f014fdbb/data=dWlkPTZOTTR3SnwzYTI2MDQyOC0wN2E2LTQzNmQtYWMxZS0yZDRlODk4YzQ0ZWMmaXA9MTgyLjkuMzQuMjgmZXhwPTE3NzUzOTU3MDAmZWlkPTIzNzI4NCZjaWQ9ZGNlLnJlYWxtYWRyaWQmb2lkPTM0NyZ0eXBlPUxJVkU/hls/live/2001479~/hls/live/2001479/237284-313745/playlist-d.m3u8
+
+#EXTINF:-1, REAL MADRID TV [EN]
+#EXTVLCOPT:http-referrer=https://play.realmadrid.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dice-live-eu.cdnfastly.endeavorstreaming.net/1775395524_qlyrkbiWPH7aTukB_071175a16e0bcec599801988f29fc8bd266d6db4/id=eff32b75-721f-4d12-b18e-88384c42c172/data=dWlkPTZOTTR3SnwzYTI2MDQyOC0wN2E2LTQzNmQtYWMxZS0yZDRlODk4YzQ0ZWMmaXA9MTgyLjkuMzQuMjgmZXhwPTE3NzUzOTU1NTMmZWlkPTIzOTIwOCZjaWQ9ZGNlLnJlYWxtYWRyaWQmb2lkPTM0NyZ0eXBlPUxJVkU/hls/live/2001449~/hls/live/2001449/239208-313746/playlist-d.m3u8
 
 #EXTINF:-1, REAL WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1560,13 +1556,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-
-#EXTINF:-1, Z BIOSKOP
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
-https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
 
 #EXTINF:-1, ZOOMOO
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
